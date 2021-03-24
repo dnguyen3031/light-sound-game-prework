@@ -6,7 +6,7 @@ Submitted by: **Daniel Nguyen**
 
 Time spent: **15** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/proud-elegant-dream
 
 ## Required Functionality
 
